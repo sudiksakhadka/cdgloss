@@ -1,2 +1,2 @@
-# cdgloss
-how to get to diamond 1 in valorant
+# cdgloss advice
+## Tier List of all relevant Roblox games
