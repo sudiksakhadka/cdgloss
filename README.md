@@ -6,11 +6,3 @@
 ### A tier
 
 ### B tier
-
-### C tier
-
-### D tier
-
-### E tier
-
-### F tier
